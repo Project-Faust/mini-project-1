@@ -1,0 +1,31 @@
+* {
+    background-color: lightsteelblue;
+    font-family: 'Times New Roman', 'Sans Serif';
+}
+
+#cat-pic {
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+}
+
+#caption {
+    font-size: 14px;
+}
+.link {
+    display: inline;
+}
+
+header {
+    color: darkgreen;
+}
+
+#page-title {
+    position: fixed;
+    top: 0px;
+    left: 750px;
+}
+
+.contact-info {
+    margin: 10px;
+}
